@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/controls/TwoZone.qml</file>
+        <file>qml/controls/FourZone.qml</file>
+        <file>qml/controls/ZoneText.qml</file>
+        <file>qml/controls/Circle.qml</file>
+        <file>qml/pages/Setup.qml</file>
+        <file>qml/pages/Likert.qml</file>
+    </qresource>
+</RCC>
