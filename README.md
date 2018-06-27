@@ -1,6 +1,6 @@
 # Tilt-menu Study
 
-Users would benefit from one-handed menu interactions with a wrist-worn computer. This prototype allows to study this interaction via two model variants (four-zone and two-zone). At the end of the trials, a Likert 7-point scale
+Users would benefit from one-handed menu interactions with a wrist-worn computer. This prototype allows to study this interaction via two model variants (four-zone and two-zone). At the end of the trials, a Likert 7-point scale is presented to the user to rate the performance of the model variant.
 
 ## Study Instructions
 1. At the start of the study, please enter the desired Id for the participant. Any string values are allowed.
